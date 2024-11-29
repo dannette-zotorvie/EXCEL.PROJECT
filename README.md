@@ -20,6 +20,7 @@ Each project is contained within its own folder, which includes the following:
      - Insights and conclusions
 
 ## **Getting Started**
+## **Getting Started**
 
 ### 1. **Prerequisites:**  
    - Microsoft Excel (any recent version).  
@@ -30,7 +31,7 @@ Each project is contained within its own folder, which includes the following:
    - Open the Excel workbook (`.xlsx` or `.xls` file) to explore the data, formulas, and analysis.
    - Review the project documentation in the PDF file to understand the methodology and insights.
    - The data files (e.g., `.csv`) can be used independently for further analysis or modifications.
-
+---
 #### **Contact**
 
 For any questions, feedback, or collaboration opportunities, feel free to reach out:  
