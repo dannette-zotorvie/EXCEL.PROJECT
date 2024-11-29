@@ -19,14 +19,13 @@ Each project is contained within its own folder, which includes the following:
      - Methodology used (formulas, techniques)
      - Insights and conclusions
 
-## **Getting Started**
-## **Getting Started**
+#### **Getting Started**
 
-### 1. **Prerequisites:**  
+ 1. **Prerequisites:**  
    - Microsoft Excel (any recent version).  
    - Optional: A PDF viewer to read the documentation files.
 
-### 2. **How to Use:**
+ 2. **How to Use:**
    - Navigate to the desired project folder.
    - Open the Excel workbook (`.xlsx` or `.xls` file) to explore the data, formulas, and analysis.
    - Review the project documentation in the PDF file to understand the methodology and insights.
