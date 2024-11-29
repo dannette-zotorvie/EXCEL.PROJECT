@@ -19,7 +19,6 @@ Each project is contained within its own folder, which includes the following:
      - Methodology used (formulas, techniques)
      - Insights and conclusions
 
-
 ## **Getting Started**
 
 ### 1. **Prerequisites:**  
